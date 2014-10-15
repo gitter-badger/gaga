@@ -1,3 +1,14 @@
+## GAme-theoretic Games and Analaysis(GAGA)
+Our objective is to develop a platform where users can play Game Theoretic games
+online against other players. We seek to deliver an enjoyable multiplayer
+experience using the `MEAN Stack`. 
+
+Analysis of players' behavior is a crucial target for this project.
+
+##Status
+Just getting started with the development.
+
+
 # [![MEAN Logo](http://www.mean.io/img/logos/meanlogo.png)](http://mean.io/) MEAN Stack
 
 [![Build Status](https://travis-ci.org/linnovate/mean.svg?branch=master)](https://travis-ci.org/linnovate/mean)
